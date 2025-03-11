@@ -1,0 +1,9 @@
+{
+  "packages": [
+    {
+      "name": "Guilibrary",
+      "filename": "Guilibrary.vglib",
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Guilibrary.vglib"
+    }
+  ]
+}
