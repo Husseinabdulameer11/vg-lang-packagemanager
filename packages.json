@@ -3,47 +3,47 @@
     {
       "name": "Guilibrary",
       "filename": "Guilibrary.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Guilibrary.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/Guilibrary.vglib"
     },
       {
       "name": "Database",
       "filename": "Database.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Database.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/Database.vglib"
     },
       {
       "name": "Arrays",
       "filename": "Arrays.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Arrays.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/Arrays.vglib"
     },
       {
       "name": "DateTime",
       "filename": "DateTime.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/DateTime.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/DateTime.vglib"
     },
     {
       "name": "IO",
       "filename": "IO.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/IO.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/IO.vglib"
     },
     {
       "name": "Mathlib",
       "filename": "Mathlib.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Mathlib.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/Mathlib.vglib"
     },
     {
       "name": "Oslib",
       "filename": "Oslib.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Oslib.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/Oslib.vglib"
     },
     {
       "name": "Random",
       "filename": "Random.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Random.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/Random.vglib"
     },
     {
       "name": "Regexlib",
       "filename": "Regexlib.vglib",
-      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/download/v1.0.0/Regexlib.vglib"
+      "url": "https://github.com/Husseinabdulameer11/vg-lang-packagemanager/releases/latest/download/Regexlib.vglib"
     }
   ]
 }
